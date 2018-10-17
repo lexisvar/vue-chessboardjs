@@ -1,3 +1,6 @@
+**⚠️ Please dont use this repository. we are in development mode :D**
+
+
 # vue-chessboardjs
 
 [![npm](https://img.shields.io/npm/v/vue-chessboardjs.svg) ![npm](https://img.shields.io/npm/dm/vue-chessboardjs.svg)](https://www.npmjs.com/package/vue-chessboardjs)
